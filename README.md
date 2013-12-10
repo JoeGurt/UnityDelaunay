@@ -6,4 +6,4 @@ Main change is using UnityEngine rather than System.Drawing, so PointF becomes V
 
 # License
 
-Delaunay is licensed under the [MIT License](https://github.com/ngarside93/UnityDelaunay/blob/master/LICENSE)
+UnityDelaunay is licensed under the [MIT License](https://github.com/ngarside93/UnityDelaunay/blob/master/LICENSE)
